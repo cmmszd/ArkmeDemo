@@ -8,3 +8,8 @@ tailwind.config.d.ts
 pnpm-debug.log*
 .DS_Store
 .codex/
+
+# Environment variables
+.env
+.env.local
+.env*.local

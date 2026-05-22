@@ -1,5 +1,4 @@
 # Arkme Demo
-##内容
 
 # Arkme Demo - 安排模块
 基于即我 Demo 项目开发的智能安排模块，支持 AI 自然语言识别、手动创建、完成管理和数据持久化。
@@ -27,10 +26,10 @@
 - 阿里云百炼 API（通义千问 qwen-max）
 
 ## 配置 API Key（AI 功能需要）
-创建 .env 文件：
-VITE_ALIYUN_API_KEY=你的API密钥
-VITE_ALIYUN_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
-VITE_ALIYUN_MODEL=qwen-max
+-创建 .env 文件：
+-VITE_ALIYUN_API_KEY=你的API密钥
+-VITE_ALIYUN_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1
+-VITE_ALIYUN_MODEL=qwen-max
 
 ### 安装依赖
 npm install

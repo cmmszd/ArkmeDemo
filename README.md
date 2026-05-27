@@ -41,6 +41,7 @@ npm run dev
 打开浏览器：http://localhost:5173/arrangement
 
 ## 项目结构
+...
 src/
 ├── pages/
 │   └── Arrangement/        # 安排模块
@@ -51,6 +52,7 @@ src/
 │   └── arrangement.ts      # 类型定义
 └── hooks/
     └── useLocalStorage.ts  # 持久化 Hook
+...
 
 
 
